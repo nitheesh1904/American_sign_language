@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+/model_library/Datasets/Dataset-1/ASL_Alphabet_Dataset/
+/model_library/Datasets/Dataset-2/asl_dataset/
