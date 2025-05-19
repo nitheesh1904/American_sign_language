@@ -2,6 +2,11 @@
 
 This project implements a real-time system to recognize American Sign Language (ASL) gestures using a combination of Artificial Neural Networks (ANN) and the MediaPipe framework. The goal is to facilitate seamless communication between individuals who use ASL and those who don’t understand it, by converting hand signs into readable text instantly.
 
+Here is the demonstration of the model built:
+
+https://github.com/user-attachments/assets/9bc1ed97-12ba-48c3-9fb2-f5ddda8dfe9f
+
+
 ## Overview
 
 American Sign Language is a vital communication method for the deaf and hard-of-hearing community. However, many people are not familiar with ASL, which can create barriers in everyday conversations. This project addresses that gap by using computer vision and machine learning to recognize and translate ASL signs in real-time.
